@@ -1,0 +1,14 @@
+.formtable{
+    margin-left: 550px;
+    height: 100px;
+    width: 300px;
+    color:rgb(30, 61, 117);
+    /* background-color: rgb(36, 51, 53); */
+    /* border:3px solid black ; */
+    /* border-radius: 20px; */
+    padding: 20px;
+}
+button{
+    height: 55px;
+    margin-left: 50px;
+}
